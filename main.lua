@@ -1,6 +1,7 @@
 local vec2 = require("lib.mathsies").vec2
 
 local consts = require("consts")
+
 local randomCircle = require("util.randomCircle")
 
 local particleSimulationShader

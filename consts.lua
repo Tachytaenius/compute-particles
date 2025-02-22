@@ -10,7 +10,7 @@ consts.particleFormat = {
 }
 
 consts.drawMeshFormat = {
-	{name = "VertexPosition", format = "float"}
+	{name = "VertexPosition", location = 0, format = "float"} -- Dummy
 }
 
 consts.gravityStrength = 2 -- Gravitational constant
